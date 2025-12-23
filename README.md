@@ -3,7 +3,7 @@ MobileVit is a plant disease detection app designed for farmers. It uses image p
 Here is a clean, professional README.md section that clearly explains how you did the project, based exactly on your points.
 You can copy–paste this directly into your GitHub README.
 
-Project Implementation Overview
+-> Project Implementation Overview
 
 This project focuses on building a plant disease detection mobile application designed for farmers, with special attention to edge-device deployment and real-world usability.
 
