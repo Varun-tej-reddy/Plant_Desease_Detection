@@ -37,7 +37,7 @@ This model helps in:
 	•	Improving inference speed
 	•	Enhancing the overall efficiency of the MobileViT model
 
-🌾 Real-World Usage
+-> Real-World Usage
 
 The application is built using Flutter, allowing universal OS deployment across Android and iOS devices. Farmers can easily carry mobile devices to fields, capture or upload plant images, and get disease predictions in real time.
 
